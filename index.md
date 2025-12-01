@@ -58,4 +58,4 @@ I work on **laser–plasma electron-beam diagnostics**, focusing on:
 ## 📫 Contact
 
 - GitHub: https://github.com/zewu-bi  
-- Email: 2369703849@qq.com  
+- Email: gecko5@sjtu.edu.cn  
