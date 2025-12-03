@@ -1,4 +1,4 @@
-# Bi — CTR Diagnostics × Machine Learning
+# Zewu Bi — CTR Diagnostics × Machine Learning
 
 👋 Hi, I'm **Zewu Bi**.
 
