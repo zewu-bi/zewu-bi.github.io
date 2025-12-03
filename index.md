@@ -1,6 +1,6 @@
 # Bi — CTR Diagnostics × Machine Learning
 
-👋 Hi, I'm **Bi**.
+👋 Hi, I'm **Zewu Bi**.
 
 I work on **laser–plasma electron-beam diagnostics**, focusing on:
 
